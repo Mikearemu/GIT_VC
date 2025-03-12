@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1><?php echo"HELLO GIT" ?></h1>
+    <p>Testing the Git Version Control System</p>
 </body>
 </html>
